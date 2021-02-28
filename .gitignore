@@ -1,0 +1,14 @@
+# Xcode
+## Build generated
+build/
+DerivedData/
+ 
+## Various settings
+*.pbxuser
+xcuserdata/
+
+### Xcode Patch ###
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
